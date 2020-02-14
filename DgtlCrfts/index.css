@@ -1,0 +1,43 @@
+#users{
+    font-family:"Arial", sans-serif;
+    text-align:center;
+    float: left;
+}
+
+#hastags{
+    font-family:"Arial", sans-serif;
+    text-align:center;
+    
+}
+
+#moolah{
+    font-family:"Arial", sans-serif;
+    text-align:center;
+    float:right;  
+}
+
+li{
+    display: inline;
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    text-align:right;
+    position:relative;
+
+}
+
+h2{
+    text-align: center;
+    font-family: "Arial, sans-serif";
+}
+
+
+#header{
+    background-image: no-repeat; 
+    
+}
+
+#title{
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+    text-align:center;
+}
